@@ -8,6 +8,8 @@ from .models import *
 def menu_page(request):
     return render(request, 'menu.html')
 
+def main_page(request):
+    return render(request, 'main_page.html')
 
 def shop_page(request):
     fasteners = ['Саморезы', 'Гвозди', 'Шурупы', 'Скобы']
@@ -29,7 +31,7 @@ def bin_page(request):
 
 
 def sign_up_by_html(request):
-    users = ['Anton', 'Vitek', 'Sofiy', 'Hasan']
+    users = ['Anton', 'Viktor', 'Sofiy']
     info = {}
 
     if request.method == "POST":
@@ -91,5 +93,3 @@ def sign_up_by_django(request):
     return render(request, 'registration_page.html', info)
 
 
-def main_page(request):
-    return HttpResponse("Это главная страница")

@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104047a6-9d49-4867-973d-518f60aa9e60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MVT_pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/templates/bin_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/mvt1/templates/bin_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/templates/main_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/mvt1/templates/main_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/templates/shop_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/mvt1/templates/shop_page.html" afterDir="false" />
+    <list default="true" id="104047a6-9d49-4867-973d-518f60aa9e60" name="Changes" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/mvt1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/mvt1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/mvt1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/task1/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/task1/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvt1/task1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvt1/task1/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arman11980&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;http://github.com/Arman11980/mvt_django&quot;,
+    &quot;accountId&quot;: &quot;356690e5-c957-48dd-81dc-b39a43d1f13e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -63,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730581351433</updated>
     </task>
+    <task id="LOCAL-00001" summary="up">
+      <option name="closed" value="true" />
+      <created>1730650357630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730650357630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
 </project>
